@@ -8,7 +8,7 @@
                 <router-view />
             </a-layout-content>
             <a-layout-footer class="footer">
-                郄汐
+                郄汐云图库 ©2026 Created by 郄汐
             </a-layout-footer>
         </a-layout>
     </div>
@@ -31,7 +31,7 @@ import GlobalHeader from '@/components/GlobalHeader.vue'
 }
 
 #basicLayout .footer{
-    background: linear-gradient(to right, #efefef, #fff);
+    background: #efefef;
     padding: 10px;
     position: fixed;
     bottom: 0;

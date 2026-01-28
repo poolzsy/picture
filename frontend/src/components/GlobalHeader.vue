@@ -54,8 +54,8 @@ const items = ref<MenuProps['items']>([
         label: '主页',
     },
     {
-        key: '/about',
-        label: '关于',
+        key: '/admin/userManage',
+        label: '用户管理',
     },
     {
         key: 'others',
